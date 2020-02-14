@@ -1,0 +1,130 @@
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.Deteccion_Rostros.resources
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.Properties.Resources.resources
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.GenerateResource.Cache
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cv110.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cvaux110.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cvextern.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cxcore110.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_calib3d220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_contrib220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_core220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_features2d220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_flann220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_gpu220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_highgui220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_imgproc220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_legacy220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_ml220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_objdetect220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_video220.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.exe.config
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.exe
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.pdb
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Emgu.CV.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Emgu.CV.UI.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Emgu.Util.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\OzekiSDK.dll
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.exe
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.pdb
+C:\Users\usuario\Downloads\Intro a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csprojResolveAssemblyReference.cache
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cv110.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cvaux110.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cvextern.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cxcore110.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_calib3d220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_contrib220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_core220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_features2d220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_flann220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_gpu220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_highgui220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_imgproc220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_legacy220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_ml220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_objdetect220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_video220.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.exe.config
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.exe
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.pdb
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Emgu.CV.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Emgu.Util.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\OzekiSDK.dll
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csprojAssemblyReference.cache
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.Deteccion_Rostros.resources
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.Properties.Resources.resources
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.GenerateResource.cache
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.CoreCompileInputs.cache
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.CopyComplete
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.exe
+C:\Users\Christian_Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.pdb
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cv110.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cvaux110.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cvextern.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\cxcore110.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_calib3d220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_contrib220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_core220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_features2d220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_flann220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_gpu220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_highgui220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_imgproc220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_legacy220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_ml220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_objdetect220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\opencv_video220.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.exe.config
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.exe
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.pdb
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Emgu.CV.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\Emgu.Util.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\bin\Debug\OzekiSDK.dll
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.Deteccion_Rostros.resources
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.exe
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Introducción a la Multimedia\Deberes y Talleres\Multimedia_Arroyo_Christian_Proyecto_4\Deteccion_Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.pdb
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\cv110.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\cvaux110.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\cvextern.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\cxcore110.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_calib3d220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_contrib220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_core220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_features2d220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_ffmpeg220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_flann220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_gpu220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_highgui220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_imgproc220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_legacy220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_ml220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_objdetect220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\opencv_video220.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.exe.config
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.exe
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\Deteccion_Rostros.pdb
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\Emgu.CV.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\Emgu.Util.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\bin\Debug\OzekiSDK.dll
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.Deteccion_Rostros.resources
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.exe
+C:\Users\Christian Arroyo\Desktop\Deteccion-Rostros\Deteccion_Rostros\obj\Debug\Deteccion_Rostros.pdb
